@@ -1,0 +1,4 @@
+baseURL = "https://ukgardensweet7.vercel.app"
+languageCode = "en-us"
+title = "UK Garden Centres"
+theme = "tale-hugo-master"
